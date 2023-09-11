@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_text">CALCULADORA DE VALOR DE RESISTENCIA</string>
+    <string name="black_text">Negro</string>
+    <string name="brown_text">Marrón</string>
+    <string name="yellow_text">Amarillo</string>
+    <string name="purple_text">Purpura</string>
+    <string name="valor3_text">3. Seleccion el tercer color de la barra de la resistencia.</string>
+    <string name="valor4_text">4. Seleccion el cuarto color de la barra de la resistencia.</string>
+    <string name="calcular_text">CALCULAR</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="MyActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">#7D2181</item> <!-- Cambia el color de fondo aquí -->
+    </style>
+
+    <style name="Base.Theme.Lab_1_Punto4" parent="Theme.AppCompat">
+        <item name="android:statusBarColor">#7D2181</item> <!-- Color de la barra de estado -->
+        <item name="android:navigationBarColor">#7D2181</item> <!-- Color de la barra de navegación -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item> <!-- Aplica el estilo de ActionBar -->
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+</resources>

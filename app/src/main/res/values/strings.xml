@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Resistencia App</string>
+    <string name="title_text">CALCULADORA DE VALOR DE RESISTENCIA</string>
+    <string name="valor1_text">1. Seleccione el primer color de la barra de la resistencia:</string>
+    <string name="black_text">Negro</string>
+    <string name="brown_text">Marrón</string>
+    <string name="red_text">Rojo</string>
+    <string name="orange_text">Naranja</string>
+    <string name="yellow_text">Amarillo</string>
+    <string name="green_text">Verde</string>
+    <string name="blue_text">Azul</string>
+    <string name="purple_text">Purpura</string>
+    <string name="gray_text">Gris</string>
+
+    <string name="brownt_text">Marrón</string>
+    <string name="redt_text">Rojo</string>
+    <string name="goldt_text">Dorado</string>
+    <string name="silvert_text">Plateado</string>
+
+    <string name="blackd_text">Negro</string>
+    <string name="brownd_text">Marrón</string>
+    <string name="redd_text">Rojo</string>
+    <string name="oranged_text">Naranja</string>
+    <string name="yellowd_text">Amarillo</string>
+    <string name="greend_text">Verde</string>
+    <string name="blued_text">Azul</string>
+    <string name="goldd_text">Dorado</string>
+    <string name="silverd_text">Plateado</string>
+
+
+    <string name="white_text">Blanco</string>
+    <string name="valor2_text">2. Seleccione el segundo color de la barra de la resistencia</string>
+    <string name="calculate">Calcular</string>
+    <string name="valor3_text">3. Seleccion el tercer color de la barra de la resistencia.</string>
+    <string name="valor4_text">4. Seleccion el cuarto color de la barra de la resistencia.</string>
+    <string name="result_text">Resultado</string>
+    <string name="calcular_text">CALCULAR</string>
+    <string-array name="colores_resistencia">
+        <item>@string/black_text</item>
+        <item>@string/brown_text</item>
+        <item>@string/red_text</item>
+        <item>@string/orange_text</item>
+        <item>@string/yellow_text</item>
+        <item>@string/green_text</item>
+        <item>@string/blue_text</item>
+        <item>@string/purple_text</item>
+        <item>@string/gray_text</item>
+        <item>@string/white_text</item>
+    </string-array>
+
+    <string-array name="colores_resistencia_uno">
+        <item>@string/brown_text</item>
+        <item>@string/red_text</item>
+        <item>@string/orange_text</item>
+        <item>@string/yellow_text</item>
+        <item>@string/green_text</item>
+        <item>@string/blue_text</item>
+        <item>@string/purple_text</item>
+        <item>@string/gray_text</item>
+        <item>@string/white_text</item>
+    </string-array>
+
+    <string-array name="colores_resistencia_tres">
+        <item>@string/blackd_text</item>
+        <item>@string/brownd_text</item>
+        <item>@string/redd_text</item>
+        <item>@string/oranged_text</item>
+        <item>@string/yellowd_text</item>
+        <item>@string/greend_text</item>
+        <item>@string/blue_text</item>
+        <item>@string/goldd_text</item>
+        <item>@string/silverd_text</item>
+    </string-array>
+
+    <string-array name="colores_resistencia_t">
+        <item> @string/brownt_text</item>
+        <item> @string/redt_text</item>
+        <item> @string/goldt_text</item>
+        <item> @string/silvert_text</item>
+    </string-array>
+</resources>
